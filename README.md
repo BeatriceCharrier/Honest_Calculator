@@ -1,5 +1,5 @@
 # Honest_Calculator
-# Hyperskill Python project Honest_Calculator
+## Hyperskill Python project Honest_Calculator
 
 Stage 1 - 
   Objective
